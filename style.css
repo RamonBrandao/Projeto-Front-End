@@ -29,6 +29,7 @@ header {
         }
         body{
             background-color: #fff;
+            color: #fff;
         }
         .container{
             display: block;
@@ -64,6 +65,7 @@ header {
             text-align: center;
             padding-top: 10px;
             font-size: 3.2rem;
+           
 
         }
         h2{
@@ -169,6 +171,14 @@ header {
 
             color: rgba(255, 255, 0, 1.0);
             
+        }
+        #enviar{
+            background-color: rgba(60, 179, 113);
+            
+        }
+
+        #limpar{
+            background-color: rgba(178, 34, 34);
         }
 
         
